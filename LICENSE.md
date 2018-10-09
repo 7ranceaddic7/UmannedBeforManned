@@ -1,4 +1,4 @@
-//------\\
+
 //---Unmanned before Manned---\\
 //---URL: http://forum.kerbalspaceprogram.com/threads/106130
 //---by Yemo---\\
